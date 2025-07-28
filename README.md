@@ -1,5 +1,9 @@
 Tic-Tac-Toe_Game (C Language)
 
+Game Controls
+- Input row (1 to 3)numbers and column (1 to 3) numbers  when prompted.
+- After each round, choose whether to play again.
+
 Features
 - Play against an intelligent computer opponent.
 - Two difficulty modes:
@@ -34,11 +38,9 @@ $ ./tictactoe
 or on Windows:
 $ tictactoe.exe
 
-Game Controls
-- Input row and column numbers from 1 to 3 when prompted.
-- After each round, choose whether to play again.
 
 Function Overview
+
 play_game() - Manages a full round of the game
 player_move() - Takes player input
 computer_move() - Computer decision-making logic
@@ -49,4 +51,5 @@ input_difficulty() - Allows user to choose difficulty level
 clear_screen() - Clears the terminal screen
 
 By-Rahul
+
 This game was coded in C as a beginner project to improve understanding of AI logic, control flow, and user interaLicense
