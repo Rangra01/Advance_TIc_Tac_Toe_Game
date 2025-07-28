@@ -1,7 +1,7 @@
 Tic-Tac-Toe_Game (C Language)
 
 Game Controls
-- Input row (1 to 3)numbers and column (1 to 3) numbers  when prompted.
+- Input row (1 to 3)number and column (1 to 3) number  when prompted.
 - After each round, choose whether to play again.
 
 Features
