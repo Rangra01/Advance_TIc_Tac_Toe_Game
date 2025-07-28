@@ -1,4 +1,4 @@
-Tic-Tac-Toe (C Language)
+Tic-Tac-Toe_Game (C Language)
 
 Features
 - Play against an intelligent computer opponent.
@@ -12,8 +12,8 @@ Features
 
 File Structure
 tic-tac-toe/
-■■■ tictactoe.c # Main source code for the game
-■■■ README.md # Project overview and instructions
+-> tictactoe.c # Main source code for the game
+-> README.md # Project overview and instructions
 
 AI Logic
 - Phase 1: Try to win in the current move.
@@ -48,5 +48,5 @@ print_board() - Displays the current board
 input_difficulty() - Allows user to choose difficulty level
 clear_screen() - Clears the terminal screen
 
-Author
+By-Rahul
 This game was coded in C as a beginner project to improve understanding of AI logic, control flow, and user interaLicense
